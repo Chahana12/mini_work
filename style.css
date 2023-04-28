@@ -1,0 +1,25 @@
+
+
+header {
+    background-color:  pink;
+    color: white;
+    padding: 10px;
+}
+
+body
+{
+    margin: 0;
+    height: 100vh;
+
+} 
+
+footer{
+
+    background-color: red;
+    padding: 10px;
+    position: absolute;
+    bottom: 0px;
+    width: calc(100% - 20px);
+
+}
+
